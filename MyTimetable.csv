@@ -1,0 +1,138 @@
+Subject,Start Date,Start Time,End Date,End Time,Description,Location
+COMP2207 L1,09/28/2015,12:00,09/28/2015,13:00,Distributed Systems & Networks (Lecture),02 / 1089 (L/T D)
+COMP2207 L1,10/05/2015,12:00,10/05/2015,13:00,Distributed Systems & Networks (Lecture),02 / 1089 (L/T D)
+COMP2207 L1,10/12/2015,12:00,10/12/2015,13:00,Distributed Systems & Networks (Lecture),02 / 1089 (L/T D)
+COMP2207 L1,10/19/2015,12:00,10/19/2015,13:00,Distributed Systems & Networks (Lecture),02 / 1089 (L/T D)
+COMP2207 L1,10/26/2015,12:00,10/26/2015,13:00,Distributed Systems & Networks (Lecture),02 / 1089 (L/T D)
+COMP2207 L1,11/02/2015,12:00,11/02/2015,13:00,Distributed Systems & Networks (Lecture),02 / 1089 (L/T D)
+COMP2207 L1,11/09/2015,12:00,11/09/2015,13:00,Distributed Systems & Networks (Lecture),02 / 1089 (L/T D)
+COMP2207 L1,11/16/2015,12:00,11/16/2015,13:00,Distributed Systems & Networks (Lecture),02 / 1089 (L/T D)
+COMP2207 L1,11/23/2015,12:00,11/23/2015,13:00,Distributed Systems & Networks (Lecture),02 / 1089 (L/T D)
+COMP2207 L1,11/30/2015,12:00,11/30/2015,13:00,Distributed Systems & Networks (Lecture),02 / 1089 (L/T D)
+COMP2207 L1,12/07/2015,12:00,12/07/2015,13:00,Distributed Systems & Networks (Lecture),02 / 1089 (L/T D)
+COMP2207 L1,01/04/2016,12:00,01/04/2016,13:00,Distributed Systems & Networks (Lecture),02 / 1089 (L/T D)
+COMP2207 L2,10/01/2015,14:00,10/01/2015,15:00,Distributed Systems & Networks (Lecture),58 / 1067 (L/T)
+COMP2207 L2,10/08/2015,14:00,10/08/2015,15:00,Distributed Systems & Networks (Lecture),58 / 1067 (L/T)
+COMP2207 L2,10/15/2015,14:00,10/15/2015,15:00,Distributed Systems & Networks (Lecture),58 / 1067 (L/T)
+COMP2207 L2,10/22/2015,14:00,10/22/2015,15:00,Distributed Systems & Networks (Lecture),58 / 1067 (L/T)
+COMP2207 L2,10/29/2015,14:00,10/29/2015,15:00,Distributed Systems & Networks (Lecture),58 / 1067 (L/T)
+COMP2207 L2,11/05/2015,14:00,11/05/2015,15:00,Distributed Systems & Networks (Lecture),58 / 1067 (L/T)
+COMP2207 L2,11/12/2015,14:00,11/12/2015,15:00,Distributed Systems & Networks (Lecture),58 / 1067 (L/T)
+COMP2207 L2,11/19/2015,14:00,11/19/2015,15:00,Distributed Systems & Networks (Lecture),58 / 1067 (L/T)
+COMP2207 L2,11/26/2015,14:00,11/26/2015,15:00,Distributed Systems & Networks (Lecture),58 / 1067 (L/T)
+COMP2207 L2,12/03/2015,14:00,12/03/2015,15:00,Distributed Systems & Networks (Lecture),58 / 1067 (L/T)
+COMP2207 L2,12/10/2015,14:00,12/10/2015,15:00,Distributed Systems & Networks (Lecture),58 / 1067 (L/T)
+COMP2207 L2,01/07/2016,14:00,01/07/2016,15:00,Distributed Systems & Networks (Lecture),58 / 1067 (L/T)
+COMP2207 L3,09/30/2015,10:00,09/30/2015,11:00,Distributed Systems & Networks (Lecture),35 / 1001
+COMP2207 L3,10/07/2015,10:00,10/07/2015,11:00,Distributed Systems & Networks (Lecture),35 / 1001
+COMP2207 L3,10/14/2015,10:00,10/14/2015,11:00,Distributed Systems & Networks (Lecture),35 / 1001
+COMP2207 L3,10/21/2015,10:00,10/21/2015,11:00,Distributed Systems & Networks (Lecture),35 / 1001
+COMP2207 L3,10/28/2015,10:00,10/28/2015,11:00,Distributed Systems & Networks (Lecture),35 / 1001
+COMP2207 L3,11/04/2015,10:00,11/04/2015,11:00,Distributed Systems & Networks (Lecture),35 / 1001
+COMP2207 L3,11/11/2015,10:00,11/11/2015,11:00,Distributed Systems & Networks (Lecture),35 / 1001
+COMP2207 L3,11/18/2015,10:00,11/18/2015,11:00,Distributed Systems & Networks (Lecture),35 / 1001
+COMP2207 L3,11/25/2015,10:00,11/25/2015,11:00,Distributed Systems & Networks (Lecture),35 / 1001
+COMP2207 L3,12/02/2015,10:00,12/02/2015,11:00,Distributed Systems & Networks (Lecture),35 / 1001
+COMP2207 L3,12/09/2015,10:00,12/09/2015,11:00,Distributed Systems & Networks (Lecture),35 / 1001
+COMP2207 L3,01/06/2016,10:00,01/06/2016,11:00,Distributed Systems & Networks (Lecture),35 / 1001
+COMP2207 Tut,10/01/2015,15:00,10/01/2015,16:00,Distributed Systems & Networks (Tutorial),58 / 1067 (L/T)
+COMP2207 Tut,10/08/2015,15:00,10/08/2015,16:00,Distributed Systems & Networks (Tutorial),58 / 1067 (L/T)
+COMP2207 Tut,10/15/2015,15:00,10/15/2015,16:00,Distributed Systems & Networks (Tutorial),58 / 1067 (L/T)
+COMP2207 Tut,10/22/2015,15:00,10/22/2015,16:00,Distributed Systems & Networks (Tutorial),58 / 1067 (L/T)
+COMP2207 Tut,10/29/2015,15:00,10/29/2015,16:00,Distributed Systems & Networks (Tutorial),58 / 1067 (L/T)
+COMP2207 Tut,11/05/2015,15:00,11/05/2015,16:00,Distributed Systems & Networks (Tutorial),58 / 1067 (L/T)
+COMP2207 Tut,11/12/2015,15:00,11/12/2015,16:00,Distributed Systems & Networks (Tutorial),58 / 1067 (L/T)
+COMP2207 Tut,11/19/2015,15:00,11/19/2015,16:00,Distributed Systems & Networks (Tutorial),58 / 1067 (L/T)
+COMP2207 Tut,11/26/2015,15:00,11/26/2015,16:00,Distributed Systems & Networks (Tutorial),58 / 1067 (L/T)
+COMP2207 Tut,12/03/2015,15:00,12/03/2015,16:00,Distributed Systems & Networks (Tutorial),58 / 1067 (L/T)
+COMP2207 Tut,12/10/2015,15:00,12/10/2015,16:00,Distributed Systems & Networks (Tutorial),58 / 1067 (L/T)
+COMP2207 Tut,01/07/2016,15:00,01/07/2016,16:00,Distributed Systems & Networks (Tutorial),58 / 1067 (L/T)
+COMP2208 L1,09/29/2015,13:00,09/29/2015,15:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L1,10/06/2015,13:00,10/06/2015,15:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L1,10/13/2015,13:00,10/13/2015,15:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L1,10/20/2015,13:00,10/20/2015,15:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L1,10/27/2015,13:00,10/27/2015,15:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L1,11/03/2015,13:00,11/03/2015,15:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L1,11/10/2015,13:00,11/10/2015,15:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L1,11/17/2015,13:00,11/17/2015,15:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L1,11/24/2015,13:00,11/24/2015,15:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L1,12/01/2015,13:00,12/01/2015,15:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L1,12/08/2015,13:00,12/08/2015,15:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L1,01/05/2016,13:00,01/05/2016,15:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L2,10/01/2015,13:00,10/01/2015,14:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L2,10/08/2015,13:00,10/08/2015,14:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L2,10/15/2015,13:00,10/15/2015,14:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L2,10/22/2015,13:00,10/22/2015,14:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L2,10/29/2015,13:00,10/29/2015,14:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L2,11/05/2015,13:00,11/05/2015,14:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L2,11/12/2015,13:00,11/12/2015,14:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L2,11/19/2015,13:00,11/19/2015,14:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L2,11/26/2015,13:00,11/26/2015,14:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L2,12/03/2015,13:00,12/03/2015,14:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L2,12/10/2015,13:00,12/10/2015,14:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2208 L2,01/07/2016,13:00,01/07/2016,14:00,Intelligent Systems (Lecture),02 / 1089 (L/T D)
+COMP2209 L1,09/29/2015,15:00,09/29/2015,17:00,Programming III (Lecture),35 / 1001
+COMP2209 L1,10/06/2015,15:00,10/06/2015,17:00,Programming III (Lecture),35 / 1001
+COMP2209 L1,10/13/2015,15:00,10/13/2015,17:00,Programming III (Lecture),35 / 1001
+COMP2209 L1,10/20/2015,15:00,10/20/2015,17:00,Programming III (Lecture),35 / 1001
+COMP2209 L1,10/27/2015,15:00,10/27/2015,17:00,Programming III (Lecture),35 / 1001
+COMP2209 L1,11/03/2015,15:00,11/03/2015,17:00,Programming III (Lecture),35 / 1001
+COMP2209 L1,11/10/2015,15:00,11/10/2015,17:00,Programming III (Lecture),35 / 1001
+COMP2209 L1,11/17/2015,15:00,11/17/2015,17:00,Programming III (Lecture),35 / 1001
+COMP2209 L1,11/24/2015,15:00,11/24/2015,17:00,Programming III (Lecture),35 / 1001
+COMP2209 L1,12/01/2015,15:00,12/01/2015,17:00,Programming III (Lecture),35 / 1001
+COMP2209 L1,12/08/2015,15:00,12/08/2015,17:00,Programming III (Lecture),35 / 1001
+COMP2209 L1,01/05/2016,15:00,01/05/2016,17:00,Programming III (Lecture),35 / 1001
+COMP2209 L2,09/28/2015,14:00,09/28/2015,16:00,Programming III (Lecture),35 / 1001
+COMP2209 L2,10/05/2015,14:00,10/05/2015,16:00,Programming III (Lecture),35 / 1001
+COMP2209 L2,10/12/2015,14:00,10/12/2015,16:00,Programming III (Lecture),35 / 1001
+COMP2209 L2,10/19/2015,14:00,10/19/2015,16:00,Programming III (Lecture),35 / 1001
+COMP2209 L2,10/26/2015,14:00,10/26/2015,16:00,Programming III (Lecture),35 / 1001
+COMP2209 L2,11/02/2015,14:00,11/02/2015,16:00,Programming III (Lecture),35 / 1001
+COMP2209 L2,11/09/2015,14:00,11/09/2015,16:00,Programming III (Lecture),35 / 1001
+COMP2209 L2,11/16/2015,14:00,11/16/2015,16:00,Programming III (Lecture),35 / 1001
+COMP2209 L2,11/23/2015,14:00,11/23/2015,16:00,Programming III (Lecture),35 / 1001
+COMP2209 L2,11/30/2015,14:00,11/30/2015,16:00,Programming III (Lecture),35 / 1001
+COMP2209 L2,12/07/2015,14:00,12/07/2015,16:00,Programming III (Lecture),35 / 1001
+COMP2209 L2,01/04/2016,14:00,01/04/2016,16:00,Programming III (Lecture),35 / 1001
+COMP2210 L1,09/28/2015,11:00,09/28/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L1,10/05/2015,11:00,10/05/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L1,10/12/2015,11:00,10/12/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L1,10/19/2015,11:00,10/19/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L1,10/26/2015,11:00,10/26/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L1,11/02/2015,11:00,11/02/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L1,11/09/2015,11:00,11/09/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L1,11/16/2015,11:00,11/16/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L1,11/23/2015,11:00,11/23/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L1,11/30/2015,11:00,11/30/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L1,12/07/2015,11:00,12/07/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L1,01/04/2016,11:00,01/04/2016,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L2,09/30/2015,11:00,09/30/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L2,10/07/2015,11:00,10/07/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L2,10/14/2015,11:00,10/14/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L2,10/21/2015,11:00,10/21/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L2,10/28/2015,11:00,10/28/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L2,11/04/2015,11:00,11/04/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L2,11/11/2015,11:00,11/11/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L2,11/18/2015,11:00,11/18/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L2,11/25/2015,11:00,11/25/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L2,12/02/2015,11:00,12/02/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L2,12/09/2015,11:00,12/09/2015,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L2,01/06/2016,11:00,01/06/2016,12:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L3,10/02/2015,12:00,10/02/2015,13:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L3,10/09/2015,12:00,10/09/2015,13:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L3,10/16/2015,12:00,10/16/2015,13:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L3,10/23/2015,12:00,10/23/2015,13:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L3,10/30/2015,12:00,10/30/2015,13:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L3,11/06/2015,12:00,11/06/2015,13:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L3,11/13/2015,12:00,11/13/2015,13:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L3,11/20/2015,12:00,11/20/2015,13:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L3,11/27/2015,12:00,11/27/2015,13:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L3,12/04/2015,12:00,12/04/2015,13:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L3,12/11/2015,12:00,12/11/2015,13:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L3,01/08/2016,12:00,01/08/2016,13:00,Theory of Computing (Lecture),35 / 1001
+COMP2210 L3 - Alt Test Room/01,10/16/2015,13:00,10/16/2015,14:00,Theory of Computing (Lecture),Avenue 65 / 1201 (L/T B)
+COMP2210 L3 - Alt Test Room/01,10/30/2015,13:00,10/30/2015,14:00,Theory of Computing (Lecture),Avenue 65 / 1201 (L/T B)
+COMP2210 L3 - Alt Test Room/01,11/13/2015,13:00,11/13/2015,14:00,Theory of Computing (Lecture),Avenue 65 / 1201 (L/T B)
+COMP2210 L3 - Alt Test Room/01,11/20/2015,13:00,11/20/2015,14:00,Theory of Computing (Lecture),Avenue 65 / 1201 (L/T B)
+COMP2210 L3 - Alt Test Room/01,12/04/2015,13:00,12/04/2015,14:00,Theory of Computing (Lecture),Avenue 65 / 1201 (L/T B)
